@@ -1,2 +1,5 @@
+# Dotenv
+.env
+
 data/*
 docs/endpoints.txt
